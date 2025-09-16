@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Blog Pessoal</title>
+<link>https://your-website-url.example.com/</link>
+<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<description>A blog built with Quarto</description>
+<generator>quarto-1.8.24</generator>
+<lastBuildDate>Tue, 16 Sep 2025 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Coisas que eu gosto</title>
+  <dc:creator>Guilherme Loiola</dc:creator>
+  <link>https://your-website-url.example.com/posts/post-with-code/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Desde pequeno começei a torcer para o Bahia, e como moro perto da fonter nova, sempre frequentei o estádio;</p>
+<p>Sempre fui fã de filmes, e adoro assistir boas obras em família, eu e meu pai gostamos de várias sagas juntos, como Star Wars, Indiana Jones e Jurassic Park;</p>
+<p>Também gosto de séries, como Game of Thrones, Dexter, e Mandalorian, além e claro de animes, como Demon Slayer, One Piece e Attack on Titan;</p>
+
+
+
+ ]]></description>
+  <category>analysis</category>
+  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
+  <pubDate>Tue, 16 Sep 2025 03:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>História</title>
+  <dc:creator>Guilherme Loiola</dc:creator>
+  <link>https://your-website-url.example.com/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>breve resumo sobre quem eu sou!</p>
+<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+
+
+
+ ]]></description>
+  <category>entertainment</category>
+  <guid>https://your-website-url.example.com/posts/welcome/</guid>
+  <pubDate>Sat, 13 Sep 2025 03:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

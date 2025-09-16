@@ -1,11 +1,11 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2025-09-08"
-categories: [news]
+title: "História"
+author: "Guilherme Loiola"
+date: "2025-09-13"
+categories: [entertainment]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+breve resumo sobre quem eu sou!
 
 ![](thumbnail.jpg)
 

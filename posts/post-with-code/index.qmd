@@ -1,9 +1,13 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
-date: "2025-09-11"
-categories: [news, code, analysis]
+title: "Coisas que eu gosto"
+author: "Guilherme Loiola"
+date: "2025-09-16"
+categories: [analysis]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
+Desde pequeno começei a torcer para o Bahia, e como moro perto da fonter nova, sempre frequentei o estádio;
+
+Sempre fui fã de filmes, e adoro assistir boas obras em família, eu e meu pai gostamos de várias sagas juntos, como Star Wars, Indiana Jones e Jurassic Park;
+
+ Também gosto de séries, como Game of Thrones, Dexter, e Mandalorian, além e claro de animes, como Demon Slayer, One Piece e Attack on Titan;   
