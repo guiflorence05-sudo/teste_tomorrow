@@ -3,11 +3,13 @@ title: "Coisas que eu gosto"
 author: "Guilherme Loiola"
 date: "2025-09-16"
 categories: [analysis]
-image: "image.jpg"
+image: "yoda.jpg"
 ---
 
-Desde pequeno começei a torcer para o Bahia, e como moro perto da fonter nova, sempre frequentei o estádio;
+Desde a infância, meu coração bate mais forte pelo Esporte Clube Bahia. Cresci indo para o Oeste Inferior e sendo contagiado pelos cantos que ecoavam da Arena Fonte Nova, uma vizinha que se tornou uma extensão da minha casa. Lembro-me vividamente de subir as arquibancadas com meu pai, e me apaixonar quase que instantaneamente pelo jogo.
 
-Sempre fui fã de filmes, e adoro assistir boas obras em família, eu e meu pai gostamos de várias sagas juntos, como Star Wars, Indiana Jones e Jurassic Park;
+Essa paixão por compartilhar momentos em família se estende para outra grande obsessão: o cinema. As noites em casa frequentemente se transformavam em maratonas épicas. em família vivenciei Star Wars, desvendei mistérios ancestrais com Indiana Jones e senti apreensão em Jurassic Park. São universos que exploramos juntos, discutindo teorias e vibrando com as cenas de ação.
 
- Também gosto de séries, como Game of Thrones, Dexter, e Mandalorian, além e claro de animes, como Demon Slayer, One Piece e Attack on Titan;   
+No mundo das séries, mergulho em tramas e personagens fascinantes. Fiquei imerso nas disputas de poder e nas reviravoltas em Game of Thrones, analisei os casos de Dexter e em The Mandalorian, ampliei os meus conhecimentos sobre uma franquia que gosto tanto. Além disso, a jornada de Tanjiro e a beleza da animação em Demon Slayer, a busca interminável pelo One Piece e a luta desesperada pela sobrevivência da humanidade em Attack on Titan são animações que me cativam.
+
+Tenho, também um bulldog francês chamado Yoda, o qual sou extremamtente apaixonado, sua companhia é bastante importante importante pra mim. Sendo o ato de passear com ele uma terapia no meu dia a dia. 
