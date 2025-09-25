@@ -7,13 +7,6 @@
     "text": "Esse blog foi criado para um curso da Tomorrow e para desenvolver as minhas habilidades de programação.\nAqui você encontrará conteúdos relacionados a engenharia de software, dicas de programação e experiências adquiridas ao longo do curso.\nAlém disso, compartilho projetos práticos, reflexões sobre o aprendizado contínuo e novidades do universo da tecnologia. Sinta-se à vontade para explorar, comentar e trocar ideias!"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "História",
-    "section": "",
-    "text": "breve resumo sobre quem eu sou!\n\nSou aluno de Sistemas de Informação na UFBA. Morador de Brotas desde pequeno, fui criado por pais incríveis que me proporcionaram estudar em uma das maiores universidades do país.\nPassei a minha infância toda somente estudando em duas escolas, Experimental e Colégio Oficina. Mais tarde, tive a oportunidade de conhecer novas pessoas e ambientes que contribuíram muito para o meu crescimento pessoal e acadêmico no cursinho do Bernoulli, colaborando para que eu estivesse aqui agora.\nSempre tive interesse por tecnologia e inovação, o que me motivou a seguir na área de Sistemas de Informação. Ao longo da minha trajetória, busquei participar de projetos, eventos e atividades extracurriculares para ampliar meus conhecimentos e habilidades.\nAtualmente, estou focado em desenvolver competências em programação, gestão de projetos e engenharia de software, visando contribuir para meu crescimento acadêmico e como cidadão, visando contribuir pela sociedade pela verba pública dedicada aos meus anos e dos demais colegas na faculdade."
-  },
-  {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Coisas que eu gosto",
@@ -26,5 +19,12 @@
     "title": "Blog de guiherme",
     "section": "",
     "text": "Coisas que eu gosto\n\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nSep 16, 2025\n\n\nGuilherme Loiola\n\n\n\n\n\n\n\n\n\n\n\n\nHistória\n\n\n\nentertainment\n\n\n\n\n\n\n\n\n\nSep 13, 2025\n\n\nGuilherme Loiola\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "História",
+    "section": "",
+    "text": "breve resumo sobre quem eu sou!\n\nSou aluno de Sistemas de Informação na UFBA. Morador de Brotas desde pequeno, fui criado por pais incríveis que me proporcionaram estudar em uma das maiores universidades do país.\nPassei a minha infância toda somente estudando em duas escolas, Experimental e Colégio Oficina. Mais tarde, tive a oportunidade de conhecer novas pessoas e ambientes que contribuíram muito para o meu crescimento pessoal e acadêmico no cursinho do Bernoulli, colaborando para que eu estivesse aqui agora.\nSempre tive interesse por tecnologia e inovação, o que me motivou a seguir na área de Sistemas de Informação. Ao longo da minha trajetória, busquei participar de projetos, eventos e atividades extracurriculares para ampliar meus conhecimentos e habilidades.\nAtualmente, estou focado em desenvolver competências em programação, gestão de projetos e engenharia de software, visando contribuir para meu crescimento acadêmico e como cidadão, visando contribuir pela sociedade pela verba pública dedicada aos meus anos e dos demais colegas na faculdade."
   }
 ]
