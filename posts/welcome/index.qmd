@@ -7,7 +7,7 @@ categories: [entertainment]
 
 breve resumo sobre quem eu sou!
 
-![](thumbnail.jpg)
+![](programador.jpg)
 
 Sou aluno de Sistemas de Informação na UFBA. Morador de Brotas desde pequeno, fui criado por pais incríveis que me proporcionaram estudar em uma das maiores universidades do país.
 
